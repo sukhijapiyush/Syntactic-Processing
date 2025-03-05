@@ -155,7 +155,7 @@ jaxlib==0.1.66+cuda110
 jdcal==1.4.1
 jedi==0.18.0
 jieba==0.42.1
-Jinja2==2.11.3
+Jinja2==3.1.6
 joblib==1.0.1
 jpeg4py==0.1.4
 jsonschema==2.6.0
