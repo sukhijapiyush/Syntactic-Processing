@@ -167,7 +167,7 @@ jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 kaggle==1.5.12
 kapre==0.3.5
-Keras==2.4.3
+Keras==3.9.0
 keras-nightly==2.5.0.dev2021032900
 Keras-Preprocessing==1.1.2
 keras-vis==0.4.1
